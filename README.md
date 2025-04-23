@@ -18,39 +18,6 @@ Tenho experiência prática com:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- Estatísticas de Contribuições -->
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=SarmentoDelano&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFD43B&icon_color=FFD43B&text_color=FFFFFF" />
-
-  <!-- Linguagens mais usadas -->
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarmentoDelano&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B" />
-
-</div>
-
----
-
-## 🧠 Conhecimentos
-
-- **Linguagens**: Python, SQL
-- **Frameworks**: Django, DRF  
-- **Ferramentas**: Git, GitHub, VS Code, Postman, Excel  
-- **Metodologias**: Scrum, Versionamento Semântico, Clean Code  
-
----
-
-## 📚 Formação
-
-- Engenharia de Software – UNINTER *(em andamento)*  
-- Psicologia – UNIFACS  
-- Residência em TIC – CEPEDI/Softex *(2024 – 2025)*  
-- Bootcamps em Python, Data Science e Back-end  
-- Certificações em GitHub, Scrum Master, SQL e Python
-
----
-
 <div align="left">
 
 <h2>Tecnologias</h2>
@@ -66,7 +33,24 @@ Tenho experiência prática com:
   <img src="https://skillicons.dev/icons?i=excel&theme=dark" />
 </p>
 
-<h2>Contato</h2>
+---
+
+## GitHub Status
+
+<div align="center">
+
+  <!-- Estatísticas de Contribuições -->
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=SarmentoDelano&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFD43B&icon_color=FFD43B&text_color=FFFFFF" />
+
+  <!-- Linguagens mais usadas -->
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarmentoDelano&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B" />
+
+</div>
+
+---
+
+### Obrigado por visitar meu perfil!  
+Sinta-se à vontade para explorar meus projetos, clonar repositórios ou entrar em contato!
 <p align="left">
   <a href="https://www.linkedin.com/in/delanosarmento/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
@@ -75,8 +59,3 @@ Tenho experiência prática com:
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
 </p>
-
----
-
-### Obrigado por visitar meu perfil!  
-Sinta-se à vontade para explorar meus projetos, clonar repositórios ou entrar em contato!
