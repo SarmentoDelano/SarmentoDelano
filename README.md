@@ -1,8 +1,20 @@
-# 👋 Olá! Eu sou Delano Sarmento
+# 👋 Olá! Me chamo Delano Sarmento
 
 🎯 Desenvolvedor Back-end em Python, APIs RESTful e Django  
 🎓 Estudante de Engenharia de Software  
 🚀 Residênte em Software (RESTIC - 36) – CEPEDI/Softex
+
+---
+
+Sou apaixonado por tecnologia, com uma transição de carreira da Psicologia para o Desenvolvimento de Software.  
+Atualmente estou focado em desenvolvimento back-end com Python e Django, integrando projetos reais em parceria com empresas através da residência RESTIC.
+
+Tenho experiência prática com:
+- Construção de APIs RESTful com Django e Django Rest Framework  
+- Bancos de dados relacionais (PostgreSQL, SQLite)  
+- Metodologias Ágeis (Scrum)  
+- Git/GitHub para controle de versão  
+- Testes, boas práticas e organização de projetos
 
 ---
 
@@ -17,20 +29,6 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarmentoDelano&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B" />
 
 </div>
-
----
-
-## 💼 Sobre Mim
-
-Sou apaixonado por tecnologia, com uma transição de carreira da Psicologia para o Desenvolvimento de Software.  
-Atualmente estou focado em desenvolvimento back-end com Python e Django, integrando projetos reais em parceria com empresas através da residência RESTIC.
-
-Tenho experiência prática com:
-- Construção de APIs RESTful com Django e Django Rest Framework  
-- Bancos de dados relacionais (PostgreSQL, SQLite)  
-- Metodologias Ágeis (Scrum)  
-- Git/GitHub para controle de versão  
-- Testes, boas práticas e organização de projetos
 
 ---
 
@@ -56,16 +54,16 @@ Tenho experiência prática com:
 <!-- Seção de Tecnologias e Ferramentas -->
 <div align="center">
 
-<h3>Tecnologias</h3>
+<!-- Tecnologias -->
+<div align="left">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+  <h3>Tecnologias</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,sqlite,postgresql" />
+  </p>
+
+</div>
+
 
   <h3>Ferramentas</h3>
   <p>
