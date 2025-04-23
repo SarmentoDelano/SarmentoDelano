@@ -52,7 +52,7 @@ Tenho experiência prática com:
 ---
 
 <!-- Seção de Tecnologias e Ferramentas -->
-<div align="center">
+<div align="left">
 
 <!-- TECNOLOGIAS -->
 <h3>Tecnologias</h3>
@@ -60,8 +60,6 @@ Tenho experiência prática com:
   <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" />
   <img src="https://skillicons.dev/icons?i=postgresql,sqlite&theme=dark" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  <img src="https://img.shields.io/badge/DRF-Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs%20RESTful-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 <!-- FERRAMENTAS -->
@@ -69,7 +67,6 @@ Tenho experiência prática com:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman&theme=dark" />
   <img src="https://skillicons.dev/icons?i=excel&theme=dark" />
-  <img src="https://img.shields.io/badge/YML-Config-000000?style=for-the-badge&logo=yaml&logoColor=white" />
 </p>
 
 <!-- CONTATO -->
