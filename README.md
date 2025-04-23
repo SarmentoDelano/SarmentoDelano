@@ -11,10 +11,10 @@
 <div align="center">
 
   <!-- Estatísticas de Contribuições -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarmentoDelano&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFD43B&icon_color=FFD43B&text_color=FFFFFF" />
+  <img height="270em" src="https://github-readme-stats.vercel.app/api?username=SarmentoDelano&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFD43B&icon_color=FFD43B&text_color=FFFFFF" />
 
   <!-- Linguagens mais usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarmentoDelano&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B" />
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarmentoDelano&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B" />
 
 </div>
 
