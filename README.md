@@ -54,43 +54,35 @@ Tenho experiência prática com:
 <!-- Seção de Tecnologias e Ferramentas -->
 <div align="center">
 
-<!-- Tecnologias -->
-<div align="left">
+<!-- TECNOLOGIAS -->
+<h3>Tecnologias</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img src="https://img.shields.io/badge/DRF-Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs%20RESTful-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-  <h3>Tecnologias</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,sqlite,postgresql" />
-  </p>
+<!-- FERRAMENTAS -->
+<h3>Ferramentas</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=excel&theme=dark" />
+  <img src="https://img.shields.io/badge/YML-Config-000000?style=for-the-badge&logo=yaml&logoColor=white" />
+</p>
 
-</div>
-
-
-  <h3>Ferramentas</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  </p>
-
-</div>
-
----
-
-<div align="center">
-
-  <!-- Gmail -->
-  <a href="mailto:delanosarmento1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-
-  <!-- LinkedIn -->
+<!-- CONTATO -->
+<h3>Contato</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/delanosarmento/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
+  <a href="mailto:delanosarmento1@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+</p>
 
-</div>
 
 
 ### Obrigado por visitar meu perfil!  
