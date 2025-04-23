@@ -51,26 +51,22 @@ Tenho experiência prática com:
 
 ---
 
-<!-- Seção de Tecnologias e Ferramentas -->
 <div align="left">
 
-<!-- TECNOLOGIAS -->
-<h3>Tecnologias</h3>
+<h2>Tecnologias</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" />
   <img src="https://skillicons.dev/icons?i=postgresql,sqlite&theme=dark" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
-<!-- FERRAMENTAS -->
-<h3>Ferramentas</h3>
+<h2>Ferramentas</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman&theme=dark" />
   <img src="https://skillicons.dev/icons?i=excel&theme=dark" />
 </p>
 
-<!-- CONTATO -->
-<h3>Contato</h3>
+<h2>Contato</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/delanosarmento/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
@@ -80,7 +76,7 @@ Tenho experiência prática com:
   </a>
 </p>
 
-
+---
 
 ### Obrigado por visitar meu perfil!  
 Sinta-se à vontade para explorar meus projetos, clonar repositórios ou entrar em contato!
