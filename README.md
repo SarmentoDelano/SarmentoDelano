@@ -56,40 +56,26 @@ Tenho experiência prática com:
 <!-- Seção de Tecnologias e Ferramentas -->
 <div align="center">
 
-<!-- Seção de Tecnologias -->
+<!-- Seção de Tecnologias com ícones lado a lado -->
 <h3>Tecnologias</h3>
-<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+
   <!-- Python -->
-  <div>
-    <p style="margin: 0; font-weight: bold;">Python:</p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="Python" />
 
   <!-- Django -->
-  <div>
-    <p style="margin: 0; font-weight: bold;">Django:</p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="60" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="50" alt="Django" />
 
   <!-- SQLite -->
-  <div>
-    <p style="margin: 0; font-weight: bold;">SQLite:</p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" height="60" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" height="50" alt="SQLite" />
 
   <!-- PostgreSQL -->
-  <div>
-    <p style="margin: 0; font-weight: bold;">PostgreSQL:</p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="60" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL" />
 
   <!-- FastAPI -->
-  <div>
-    <p style="margin: 0; font-weight: bold;">FastAPI:</p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="60" />
-  </div>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="50" alt="FastAPI" />
 
+</div>
 
   <h3>Ferramentas</h3>
   <p>
