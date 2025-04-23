@@ -10,9 +10,11 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarmentoDelano&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Estatísticas de GitHub de Delano Sarmento" />
+  <!-- Estatísticas de Contribuições -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarmentoDelano&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFD43B&icon_color=FFD43B&text_color=FFFFFF" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarmentoDelano&layout=compact&langs_count=7&theme=default" alt="Linguagens mais usadas por Delano Sarmento" />
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarmentoDelano&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B" />
 
 </div>
 
