@@ -42,9 +42,13 @@
 
 <h2>GitHub Status</h2>
 <div align="center">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=SarmentoDelano&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFD43B&icon_color=FFD43B&text_color=FFFFFF" alt="GitHub Stats" />
-  <br><br>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarmentoDelano&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B" alt="Top Languages" />
+
+  <!-- Estatísticas de Contribuições -->
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=SarmentoDelano&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFD43B&icon_color=FFD43B&text_color=FFFFFF" />
+
+  <!-- Linguagens mais usadas -->
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarmentoDelano&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFD43B&text_color=FFFFFF&icon_color=FFD43B" />
+
 </div>
 
 <hr>
