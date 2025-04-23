@@ -60,5 +60,20 @@ Tenho experiência prática com:
 
 ---
 
+<div align="center">
+
+  <!-- Gmail -->
+  <a href="mailto:delanosarmento1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/delanosarmento/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
+
+
 ### Obrigado por visitar meu perfil!  
 Sinta-se à vontade para explorar meus projetos, clonar repositórios ou entrar em contato!
