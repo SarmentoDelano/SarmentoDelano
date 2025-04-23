@@ -3,26 +3,10 @@
 <h1>👋 Olá! Me chamo Delano Sarmento</h1>
 
 <p>
-  🎯 Desenvolvedor Back-end em Python, APIs RESTful e Django<br>
+  🎯 Desenvolvedor Python (Django, Django DRF e FastAPI)<br>
   🎓 Estudante de Engenharia de Software<br>
   🚀 Residênte em Software (RESTIC - 36) – CEPEDI/Softex
 </p>
-
-<hr>
-
-<p>
-  Sou apaixonado por tecnologia, com uma transição de carreira da Psicologia para o Desenvolvimento de Software.<br>
-  Atualmente estou focado em desenvolvimento back-end com Python e Django, integrando projetos reais em parceria com empresas através da residência RESTIC.
-</p>
-
-<p>Tenho experiência prática com:</p>
-<ul>
-  <li>Construção de APIs RESTful com Django e Django Rest Framework</li>
-  <li>Bancos de dados relacionais (PostgreSQL, SQLite)</li>
-  <li>Metodologias Ágeis (Scrum)</li>
-  <li>Git/GitHub para controle de versão</li>
-  <li>Testes, boas práticas e organização de projetos</li>
-</ul>
 
 <hr>
 
