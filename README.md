@@ -11,7 +11,7 @@
 
 <h2>Tecnologias</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,sqlite,mysqli&theme=dark" alt="Python, Django, FastAPI, PostgreSQL, SQLite, MySQL" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,sqlite,mysql&theme=dark" alt="Python, Django, FastAPI, PostgreSQL, SQLite, MySQL" />
 </p>
 
 <h2>Ferramentas</h2>
