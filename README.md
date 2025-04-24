@@ -1,11 +1,11 @@
 <!-- PERFIL GITHUB EM HTML -->
 
-<h1>👋 Olá! Me chamo Delano Sarmento</h1>
+<h1>Sobre mim</h1>
 
 <p>
-  🎯 Desenvolvedor Python (Django, Django DRF e FastAPI)<br>
+  👨‍💻 Desenvolvedor Python (Django, Django DRF e FastAPI)<br>
   🎓 Estudante de Engenharia de Software<br>
-  🚀 Residênte em Software (RESTIC - 36) – CEPEDI/Softex
+  💼 Residente em Software (RESTIC - 36) – CEPEDI/Softex
 </p>
 
 
