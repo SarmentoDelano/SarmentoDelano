@@ -11,14 +11,12 @@
 
 <h2>Tecnologias</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" alt="Python, Django, FastAPI" />
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql&theme=dark" alt="PostgreSQL, SQLite, MySQL" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastap,postgresql,sqlite,mysqli&theme=dark" alt="Python, Django, FastAPI, PostgreSQL, SQLite, MySQL" />
 </p>
 
 <h2>Ferramentas</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman&theme=dark" alt="Git, GitHub, VSCode, PyCharm, Postman" />
-  <img src="https://skillicons.dev/icons?i=excel&theme=dark" alt="Excel" />
 </p>
 
 
