@@ -8,7 +8,6 @@
   🚀 Residênte em Software (RESTIC - 36) – CEPEDI/Softex
 </p>
 
-<hr>
 
 <h2>Tecnologias</h2>
 <p>
@@ -22,7 +21,6 @@
   <img src="https://skillicons.dev/icons?i=excel&theme=dark" alt="Excel" />
 </p>
 
-<hr>
 
 <h2>GitHub Status</h2>
 <div align="center">
@@ -35,7 +33,6 @@
 
 </div>
 
-<hr>
 
 <h3>Obrigado por visitar meu perfil!</h3>
 <p>Sinta-se à vontade para explorar meus projetos, clonar repositórios ou entrar em contato!</p>
